@@ -2,20 +2,12 @@
 
 From my laboratory in spring semester's course "Numerical Analysis".
 
-lu decomposition
-
-Odd and even numbers
-
-Differentiation
-
-Analyzing Harmonic Distortion
-
-Jacobi Method
-
-Simpson's Rule Integration
-
-Interpolation
-
-Newton's method
-
-Polynomial evaluation
+1.lu decomposition
+2.Odd and even numbers
+3.Differentiation
+4.Analyzing Harmonic Distortion
+5.Jacobi Method
+6.Simpson's Rule Integration
+7.Interpolation
+8.Newton's method
+9.Polynomial evaluation
